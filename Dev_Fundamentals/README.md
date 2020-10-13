@@ -11,4 +11,4 @@ Day 1 coding basics.
         console.log(name)
     }
 ```
-[Link] )(https://github.com/robfoss/Digital-Crafts-Classes/tree/main/Dev_Fundamentals)
+[Link] (https://github.com/robfoss/Digital-Crafts-Classes/tree/main/Dev_Fundamentals)
