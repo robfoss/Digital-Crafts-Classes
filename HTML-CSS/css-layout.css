@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.container {
+	display: flex;
+	width: 80%;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	align-items: stretch;
+	border: 3px solid;
+}
+
+header {
+	display: flex;
+	width: 100%;
+	border-bottom: 1px solid;
+	
+}
+
+.header{
+	text-align: center;
+}

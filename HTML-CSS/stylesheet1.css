@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+#wrapper{
+	box-sizing: 20px, 80px;
+	box-shadow: 1px 0px 1px 1px #3085CA;
+}
+
+nav {
+	background: #969EA1;
+	text-align: center;
+	overflow: auto;
+}
+
+ul {
+	list-style: none;
+	margin: 5px;
+	
+}
+
+li {
+	display: inline-block;
+}
+
+a {
+	display: inline-block;
+	margin: 0;
+	padding: 10px 15px;
+	
+}.para-link {
+}
